@@ -1,6 +1,6 @@
 # SMS Appointment Booking App
 
-An app that enables a customer to book appointments through text messaging.
+An SMS chatbot that enables a customer to book appointments through text messaging.
 
 <!-- ## Screenshot -->
 
