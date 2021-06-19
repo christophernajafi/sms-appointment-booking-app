@@ -2,9 +2,7 @@
 
 An SMS chatbot that enables a customer to book appointments through text messaging.
 
-<!-- ## Screenshot -->
-
-<!-- Screenshot: scale image, 25% -->
+![Animated Gif](./screenshots/sms-booking-sm.gif)
 
 ## Technology Stack
 
