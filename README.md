@@ -10,6 +10,6 @@ An SMS chatbot that enables a customer to book appointments through text messagi
 - Node.js
 - Express
 
-## Author
+## Developer
 
 [Christopher Najafi](https://www.chrisnajafi.com/)
